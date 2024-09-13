@@ -1,0 +1,1 @@
+The HandGestureRecognitionOpen project aims to create an accurate and efficient hand gesture recognition system. It uses a webcam or any other camera to capture real-time video, which is then processed to detect hand gestures and classify them using trained models
